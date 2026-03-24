@@ -20,13 +20,13 @@ Previously hunted vulnerabilities at **DRDO (DIA-SVPCoE)** — India's premier d
 
 ### Tools & Technologies
 
-**Security**&emsp; Burp Suite | Nmap | Metasploit | Wireshark | OWASP ZAP | SQLMap | Nikto | Subfinder | httpx
+**Security**&emsp; Burp Suite | Nmap | Metasploit | Wireshark | OWASP ZAP | SQLMap 
 
-**Languages**&emsp; Python | Bash | PowerShell
+**Languages**&emsp; Python | PowerShell
 
-**Platforms**&emsp; Kali Linux | Windows Server | AWS
+**Platforms**&emsp; Kali Linux | AWS
 
-**Automation**&emsp; Agentic AI | Custom Python Scripts | Vagrant
+**Automation**&emsp; Agentic AI | Custom Python Scripts 
 
 ---
 
