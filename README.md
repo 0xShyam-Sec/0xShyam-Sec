@@ -9,11 +9,13 @@
 
 ## Who Am I?
 
-Hey there, I'm **Shyam Kakkad** — a Security Engineer Intern, Ex-Intern at DRDO, and passionate about Agentic AI Security, Cloud Security, and Penetration Testing.
+Hey there, I'm **Shyam Kakkad** — a Security Engineer Intern, Ex-Intern at DRDO, and passionate about Agentic AI Security, Cloud Security, and Penetration Testing. I talk to AI agents more than humans.
 
-I build security tools, automate DevSecOps pipelines, and love breaking (and securing) things. Whether it's hunting vulnerabilities, building cloud-native security solutions, or writing about security — I'm always learning and sharing.
+I'm a security enthusiast who loves **breaking things, securing them, and automating the whole process**. Whether it's building DevSecOps pipelines, securing cloud infrastructure, or developing automated security tools — if it involves security, I'm probably obsessing over it.
 
-Currently based in **Bengaluru, India**.
+Lately, I've been diving deep into **Agentic AI** — building autonomous agents that can think, decide, and act on security tasks. I believe the future of cybersecurity is where AI agents work alongside humans to detect, investigate, and respond to threats in real time.
+
+Apart from security, you'll find me building AI-powered tools that make security smarter, faster, and more autonomous.
 
 ---
 
