@@ -64,6 +64,15 @@ Currently based in **Bengaluru, India**.
 
 ---
 
+## AI & Agentic AI
+<p>
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-5A45FF?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+---
+
 ## Featured Projects
 
 <table>
