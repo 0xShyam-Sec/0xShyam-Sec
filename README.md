@@ -1,71 +1,111 @@
-# Hey, I'm Shyam Kakkad
+<h1 align="center">Welcome! My name is Shyam Kakkad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-### Security Engineer | Penetration Tester | Agentic AI + Security
-
-I break web applications to make them secure. Currently working on application security, vulnerability assessment, and building AI-driven security automation at **Locus**.
-
-Previously hunted vulnerabilities at **DRDO (DIA-SVPCoE)** — India's premier defence research organization.
-
----
-
-### What I Do
-
-- Web Application Penetration Testing (VAPT)
-- Application Security & Secure Architecture Review
-- Vulnerability Research — OWASP Top 10, SSRF, Injection, Broken Access Control
-- Security Automation with Agentic AI
-- Infrastructure & Network Security
+<p align="center">
+  <a href="https://www.linkedin.com/in/shyamkakkad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@0xShyam-Sec"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 ---
 
-### Tools & Technologies
+## Who Am I?
 
-**Security**&emsp; Burp Suite | Nmap | Metasploit | Wireshark | OWASP ZAP | SQLMap 
+Hey there, I'm **Shyam Kakkad** — a Security Engineer Intern, Ex-Intern at DRDO, and passionate about Agentic AI Security, Cloud Security, and Penetration Testing.
 
-**Languages**&emsp; Python | PowerShell
+I build security tools, automate DevSecOps pipelines, and love breaking (and securing) things. Whether it's hunting vulnerabilities, building cloud-native security solutions, or writing about security — I'm always learning and sharing.
 
-**Platforms**&emsp; Kali Linux | AWS
-
-**Automation**&emsp; Agentic AI | Custom Python Scripts 
+Currently based in **Bengaluru, India**.
 
 ---
 
-### Experience
+## Languages, Tools, and Frameworks
 
-| Role | Organization | Duration |
-|------|-------------|----------|
-| Security Engineer Intern | **Locus** | Feb 2026 – Present |
-| Cybersecurity Intern – VAPT | **DRDO – DIA-SVPCoE** | Jul – Aug 2025 |
-| Intern | **CDAC, Noida** | May – Jul 2024 |
-| President | **Coder's Club, LDCE** | Sep 2023 – Jul 2025 |
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+### Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,cloudflare" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### Security Tools
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+</p>
+
+### DevSecOps & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,docker" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAST%2FDAST-FF5733?style=for-the-badge&logoColor=white" />
+</p>
+
+### Platforms & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,vscode" />
+</p>
 
 ---
 
-### Certifications
-
-- **Microsoft Certified:** Security, Compliance, and Identity Fundamentals (SC-900)
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [Real-time Network Vulnerability Scanner](https://github.com/0xShyam-Sec/realtime-network-vulnerability-scanner) | Python + Nmap based live network scanner on Kali Linux |
-| [Windows Server AD DS Automation](https://github.com/0xShyam-Sec/Windows-server-ad-ds-automation) | Automated Windows Server 2019 Active Directory setup using Vagrant & PowerShell |
-| [Mini Cloud at Home](https://github.com/0xShyam-Sec/Mini_cloud_at_home) | Self-hosted cloud infrastructure using Python |
+## Certifications
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge&logo=mitre&logoColor=white" />
+</p>
 
 ---
 
-### Currently Building
+## Featured Projects
 
-- AI-powered security agents for automated recon & vulnerability discovery
-- Custom VAPT automation tools
-- Security writeups & research
+<table>
+  <thead>
+    <tr>
+      <th width="250">Project</th>
+      <th width="550">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/0xShyam-Sec/VulnHive-AI">VulnHive-AI</a></td>
+      <td>AI-powered automated penetration testing engine — 24 scan agents, MCP detection, subdomain enum, exploit chaining</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/0xShyam-Sec/aws-s3-guardian">aws-s3-guardian</a></td>
+      <td>Automated AWS S3 security monitoring & auto-remediation using Lambda, EventBridge, CloudTrail, and Terraform</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/0xShyam-Sec/GuardRail-CI">GuardRail-CI</a></td>
+      <td>Automated DevSecOps security pipeline built on GitHub Actions — 4-layer defense for SAST, SCA, DAST, Secrets</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### Let's Connect
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamkakkad)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xShyam-Sec)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xShyam-Sec&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xShyam-Sec&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xShyam-Sec&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xShyam-Sec&style=for-the-badge&color=blueviolet" />
+</p>
+
+<p align="center"><b>Let's connect and build a more secure world together!</b></p>
