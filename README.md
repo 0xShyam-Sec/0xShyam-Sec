@@ -105,7 +105,7 @@ Apart from security, you'll find me building AI-powered tools that make security
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xShyam-Sec&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xShyam-Sec&count_private=true&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xShyam-Sec&theme=radical&hide_border=true" width="48%" />
 </p>
 
