@@ -9,7 +9,7 @@
 
 ## Who Am I?
 
-Hey there, I'm **Shyam Kakkad** — Cyber Security Analyst at eSecurify Technologies Previously at Locus (Security Engineer Intern) and DRDO (Cyber Security Intern), and passionate about Agentic AI Security, Cloud Security, and Penetration Testing. I talk to AI agents more than humans.
+Hey there, I'm **Shyam Kakkad** Cyber Security Analyst at eSecurify Technologies Previously at Locus (Security Engineer Intern) and DRDO (Cyber Security Intern), and passionate about Agentic AI Security, Cloud Security, and Penetration Testing. I talk to AI agents more than humans.
 
 Cyber Security Analyst at eSecurify Technologies - I break web applications, APIs, and cloud infrastructure, then build AI-driven tools that do it autonomously.
 
